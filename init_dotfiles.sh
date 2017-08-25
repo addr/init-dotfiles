@@ -173,6 +173,16 @@ while [ $# -ne 0 ]; do
 done
 
 paths=('~/.profile'
+	'~/.atom'
+	'~/.hammerspoon'
+	'~/.gitignore_global'
+	'~/.jsbeautifyrc'
+	'~/.emacs.d'
+	'~/.spacemacs.d'
+	'~/Library/Application\ Support/Code/User/settings.json'
+	'~/Library/Application\ Support/Code/User/keybindings.json'
+	'~/Library/Application\ Support/Code/User/snippets/'
+	'~/.eslintrc'
 	'~/.bash_profile'
 	'~/.bashrc'
 	'~/.bash_logout'
